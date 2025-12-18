@@ -1,9 +1,9 @@
 name: Generate Contribution Snake
-
 on:
   schedule:
-    - cron: "* */12 * * *"  # Runs every 12 hours automatically
-  workflow_dispatch:          # Allows you to trigger it manually
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
 
 jobs:
   build:
