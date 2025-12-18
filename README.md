@@ -38,8 +38,6 @@ Currently learning **Flask, Python, and Machine Learning Basics**.
 | Project | Description | Tech |
 |---------|-------------|------|
 | Portfolio Website | Personal portfolio to showcase my projects | HTML, CSS, JS |
-| Python CRUD App | Simple CRUD application using Flask | Python, Flask, MySQL |
-| Machine Learning Model | Basic ML model for predictions | Python, scikit-learn |
 | Pneumo Guard | Lung health prediction using ML | Python, scikit-learn, Flask |
 | Bank Churn Prediction | Predict customer churn for a bank | Python, Pandas, scikit-learn |
 
@@ -55,19 +53,7 @@ Currently learning **Flask, Python, and Machine Learning Basics**.
 
 ---
 
-### 🏆 Achievements & Contributions
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amruthak2003&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
 
----
-
-### 📈 GitHub Contributions
-<p align="center">
-  <img src="https://github.com/amruthak2003/amruthak2003/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions"/>
-</p>
-
----
 
 ### 🔗 Connect with Me
 <p align="center">
