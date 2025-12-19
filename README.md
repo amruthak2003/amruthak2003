@@ -52,7 +52,14 @@ Currently learning **Flask, Python, and Machine Learning Basics**.
 </p>
 
 ---
+## 📘 Python Programming – Learning Journey
 
+📌 syllabus-oriented Python notes  
+📌 Covers core concepts with programs and examples  
+📌 Self-learned through practice and app-based courses  
+
+🔗 Learning Repositories:  
+👉 https://github.com/amruthak2003/python-learning
 
 
 ### 🔗 Connect with Me
